@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Engine plasma exhaust -->
+    <path
+        android:pathData="M50,72 L54,88 L58,72 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="72"
+                android:endX="54"
+                android:endY="88"
+                android:type="linear">
+                <item android:color="#FFD166" android:offset="0.0" />
+                <item android:color="#EF476F" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Side engine flames -->
+    <path
+        android:pathData="M40,68 L42,78 L44,68 Z M64,68 L66,78 L68,68 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="68"
+                android:endX="54"
+                android:endY="78"
+                android:type="linear">
+                <item android:color="#00F5D4" android:offset="0.0" />
+                <item android:color="#00BBF9" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Outer Wing Cannons -->
+    <path
+        android:fillColor="#00BBF9"
+        android:pathData="M32,44 L35,44 L35,66 L32,66 Z M73,44 L76,44 L76,66 L73,66 Z" />
+    <!-- Swept Wings -->
+    <path
+        android:fillColor="#7209B7"
+        android:pathData="M40,54 L26,65 L36,68 L42,62 Z M68,54 L82,65 L72,68 L66,62 Z" />
+    <path
+        android:fillColor="#F72585"
+        android:pathData="M40,56 L30,64 L36,66 Z M68,56 L78,64 L72,66 Z" />
+    <!-- Main Starfighter Hull -->
+    <path
+        android:pathData="M54,24 L68,64 L54,58 L40,64 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="40"
+                android:startY="24"
+                android:endX="68"
+                android:endY="64"
+                android:type="linear">
+                <item android:color="#00F5D4" android:offset="0.0" />
+                <item android:color="#0B525B" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Cockpit Canopy Glass -->
+    <path
+        android:pathData="M54,34 L58,48 L54,50 L50,48 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="34"
+                android:endX="54"
+                android:endY="50"
+                android:type="linear">
+                <item android:color="#FFFFFF" android:offset="0.0" />
+                <item android:color="#4CC9F0" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>

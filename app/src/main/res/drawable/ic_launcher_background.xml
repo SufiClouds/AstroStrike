@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item android:color="#0F172A" android:offset="0.0" />
+                <item android:color="#030712" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Distant Stars & Stardust -->
+    <path
+        android:fillColor="#6600F5D4"
+        android:pathData="M24,20a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0 M80,26a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0 M18,75a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0 M88,82a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0 M52,14a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0" />
+    <path
+        android:fillColor="#44F72585"
+        android:pathData="M35,32a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0 M72,65a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0 M20,40a1,1 0 1,0 2,0a1,1 0 1,0 -2,0 M86,45a1,1 0 1,0 2,0a1,1 0 1,0 -2,0" />
+</vector>

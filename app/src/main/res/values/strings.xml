@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AstroStrike</string>
+    <string name="start_game">Launch Mission</string>
+    <string name="resume_game">Resume Flight</string>
+    <string name="ship_hangar">Ship Hangar</string>
+    <string name="hall_of_fame">Hall of Fame</string>
+    <string name="sound_effects">Audio FX</string>
+    <string name="haptics_rumble">Haptic Rumble</string>
+    <string name="game_over">Mission Failed</string>
+    <string name="victory">Sector Cleared</string>
+    <string name="play_again">Fly Again</string>
+    <string name="return_hangar">Return to Base</string>
+    <string name="blaster_rate">Photon Blaster</string>
+    <string name="shield_capacity">Deflector Shield</string>
+    <string name="magnet_range">Core Collector</string>
+    <string name="super_bomb">Nova Bomb</string>
+    <string name="energy_cores">Energy Cores</string>
+    <string name="upgrade_button">Upgrade</string>
+    <string name="max_level">MAX</string>
+</resources>
